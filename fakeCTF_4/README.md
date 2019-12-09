@@ -14,5 +14,4 @@ Things to note:
 > pip install -r requirements.txt
 ```
 
-
-Disclaimer: The IC numbers in `list.txt` is **NOT** a collection of existing IC numbers, they were randomly generated.
+*Disclaimer: The IC numbers in `list.txt` is **NOT** a collection of existing IC numbers, they were randomly generated.*
