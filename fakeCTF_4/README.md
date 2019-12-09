@@ -6,6 +6,7 @@ Things to note:
 - Do not edit/move the file/contents of `encrypted.txt` and `list.txt`
 - For the `fakeCTF_4.py` file, add your code only in the `main()` function, edit the other functions at your own risk
 - This was built on Python 3.8. However, it should work on > Python 3.6
+- I know you can bruteforce it, but don't
 - You will need to install some dependencies
 
 ```bash
