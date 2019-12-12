@@ -15,6 +15,7 @@ def main(inf):
     """
 
 
+
 class Infinity:
     infinity = ""
     def __init__(self, infinity):
