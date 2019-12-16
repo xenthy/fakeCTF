@@ -14,3 +14,4 @@
 |     7 | [3-in-1 coffee](https://github.com/xenthy/fakeCTF/tree/master/fakeCTF_7)                       | ??        |
 |     8 | [these shouldn't exist](https://github.com/xenthy/fakeCTF/tree/master/fakeCTF_8)               | EL        |
 |     9 | [iFixit](https://github.com/xenthy/fakeCTF/tree/master/fakeCTF_9)                              | Forensics |
+|    10 | [rotten strings](https://github.com/xenthy/fakeCTF/tree/master/fakeCTF_10)                     | Crypto    |
